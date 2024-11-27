@@ -1,0 +1,2 @@
+Hi 
+This is the content writen after commiting the alice file for the first time.
